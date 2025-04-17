@@ -1,0 +1,8 @@
+com\example\app\controller\UserController.class
+com\example\app\config\AppConfig.class
+com\example\app\dao\UserDAOImpl.class
+com\example\app\dao\UserDAO.class
+com\example\app\service\UserServiceImpl.class
+com\example\app\config\HibernateConfig.class
+com\example\app\model\User.class
+com\example\app\service\UserService.class
